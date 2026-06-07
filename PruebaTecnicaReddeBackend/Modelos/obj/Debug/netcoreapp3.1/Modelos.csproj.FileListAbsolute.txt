@@ -1,0 +1,13 @@
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Modelos\bin\Debug\netcoreapp3.1\Modelos.deps.json
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Modelos\bin\Debug\netcoreapp3.1\Modelos.runtimeconfig.json
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Modelos\bin\Debug\netcoreapp3.1\Modelos.runtimeconfig.dev.json
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Modelos\bin\Debug\netcoreapp3.1\Modelos.dll
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Modelos\bin\Debug\netcoreapp3.1\Modelos.pdb
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Modelos\obj\Debug\netcoreapp3.1\Modelos.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Modelos\obj\Debug\netcoreapp3.1\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Modelos\obj\Debug\netcoreapp3.1\Modelos.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Modelos\obj\Debug\netcoreapp3.1\Modelos.AssemblyInfo.cs
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Modelos\obj\Debug\netcoreapp3.1\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Modelos\obj\Debug\netcoreapp3.1\Modelos.dll
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Modelos\obj\Debug\netcoreapp3.1\Modelos.pdb
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Modelos\obj\Debug\netcoreapp3.1\Modelos.genruntimeconfig.cache

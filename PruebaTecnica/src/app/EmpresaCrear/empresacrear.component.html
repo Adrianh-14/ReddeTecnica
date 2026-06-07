@@ -1,0 +1,52 @@
+<div style="max-width:600px; margin:30px auto; padding:0 16px">
+  <h2>Nueva Empresa</h2>
+
+  <div style="display:flex; flex-direction:column; gap:12px">
+
+    <div style="display:flex; gap:8px; align-items:flex-end">
+      <div style="flex:1">
+        <label>RNC *</label><br>
+        <input [(ngModel)]="empresa.rnc" name="rnc" style="width:100%" />
+        <small style="color:red" *ngIf="enviado && !empresa.rnc">Requerido</small>
+      </div>
+      <button (click)="consultarRNC()" [disabled]="buscando">
+        {{ buscando ? 'Buscando...' : 'Consultar' }}
+      </button>
+    </div>
+
+    <div>
+      <label>Nombre *</label><br>
+      <input [(ngModel)]="empresa.nombre" name="nombre" style="width:100%" />
+      <small style="color:red" *ngIf="enviado && !empresa.nombre">Requerido</small>
+    </div>
+    <div>
+      <label>Nombre Comercial</label><br>
+      <input [(ngModel)]="empresa.nombreComercial" name="nombreComercial" style="width:100%" />
+    </div>
+    <div>
+      <label>Categoría</label><br>
+      <input [(ngModel)]="empresa.categoria" name="categoria" style="width:100%" />
+    </div>
+    <div>
+      <label>Esquema de Pagos</label><br>
+      <input [(ngModel)]="empresa.esquemaPagos" name="esquemaPagos" style="width:100%" />
+    </div>
+    <div>
+      <label>Actividad Económica</label><br>
+      <input [(ngModel)]="empresa.actividadEconomica" name="actividadEconomica" style="width:100%" />
+    </div>
+    <div>
+      <label>Rama Gubernamental</label><br>
+      <input [(ngModel)]="empresa.ramaGubernamental" name="ramaGubernamental" style="width:100%" />
+    </div>
+    <div>
+      <label>Estado</label><br>
+      <input [(ngModel)]="empresa.estado" name="estado" style="width:100%" />
+    </div>
+
+    <div style="display:flex; gap:10px">
+      <button (click)="guardar()">Guardar</button>
+      <button (click)="cancelar()">Cancelar</button>
+    </div>
+  </div>
+</div>

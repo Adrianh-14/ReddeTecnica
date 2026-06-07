@@ -1,0 +1,13 @@
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Servicios\bin\Debug\netcoreapp3.1\Servicios.deps.json
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Servicios\bin\Debug\netcoreapp3.1\Servicios.dll
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Servicios\bin\Debug\netcoreapp3.1\Servicios.pdb
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Servicios\bin\Debug\netcoreapp3.1\Modelos.dll
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Servicios\bin\Debug\netcoreapp3.1\Modelos.pdb
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Servicios\obj\Debug\netcoreapp3.1\Servicios.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Servicios\obj\Debug\netcoreapp3.1\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Servicios\obj\Debug\netcoreapp3.1\Servicios.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Servicios\obj\Debug\netcoreapp3.1\Servicios.AssemblyInfo.cs
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Servicios\obj\Debug\netcoreapp3.1\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Servicios\obj\Debug\netcoreapp3.1\Servicios.csproj.Up2Date
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Servicios\obj\Debug\netcoreapp3.1\Servicios.dll
+C:\Users\adria\source\repos\PruebaTecnicaRedde\Servicios\obj\Debug\netcoreapp3.1\Servicios.pdb

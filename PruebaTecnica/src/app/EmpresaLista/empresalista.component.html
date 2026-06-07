@@ -1,0 +1,28 @@
+<div style="max-width:900px; margin:30px auto; padding:0 16px">
+  <div style="display:flex; justify-content:space-between; margin-bottom:20px">
+    <h2>Empresas</h2>
+    <button routerLink="/crear">+ Nueva Empresa</button>
+  </div>
+
+  <table border="1" cellpadding="8" width="100%">
+    <thead>
+      <tr>
+        <th>RNC</th><th>Nombre</th><th>Nombre Comercial</th><th>Categoría</th><th>Estado</th><th>Acciones</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let e of empresas">
+        <td>{{ e.rnc }}</td>
+        <td>{{ e.nombre }}</td>
+        <td>{{ e.nombreComercial }}</td>
+        <td>{{ e.categoria }}</td>
+        <td>{{ e.estado }}</td>
+        <td>
+          <button [routerLink]="['/ver', e.id]">Ver</button>
+          <button [routerLink]="['/editar', e.id]">Editar</button>
+          <button (click)="eliminar(e.id)">Eliminar</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
